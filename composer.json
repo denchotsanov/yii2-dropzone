@@ -1,0 +1,22 @@
+{
+    "name": "denchotsanov/yii2-dropzone",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","dropzone","upload"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dencho Tsanov",
+            "email": "tsanov.dencho@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "^2.0.30",
+        "enyo/dropzone": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "denchotsanov\\widget\\": ""
+        }
+    }
+}
