@@ -8,6 +8,6 @@ class DropZoneAsset extends AssetBundle
 {
 
     public $depends = [
-        'denchotsanov/widget/asset/DropzoneJsAsset'
+        'denchotsanov\widget\asset\DropzoneJsAsset'
     ];
 }
